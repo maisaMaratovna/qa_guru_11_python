@@ -1,2 +1,2 @@
-print("pompom!")
+print("vasya!!!!!!")
 
