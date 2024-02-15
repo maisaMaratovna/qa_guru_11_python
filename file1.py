@@ -1,2 +1,3 @@
-print("vasya!!!!!!")
+print("cat")
+print("cat")
 
